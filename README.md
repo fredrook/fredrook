@@ -15,10 +15,13 @@
 ---
 ### Alguns dos meus projetos
 
-- [KenzieMED (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
-- [NU Kenzie (1º Projeto, realizado em React Native, com conceitos de Componentização, Pages, Styled Components)](https://github.com/fredrook/REACT-NuKenzie)
-- [Kenzie Habits (2º projeto, realizado em JS, HTML e CSS, utilizando conceitos de API, DOM e POO)](https://github.com/fredrook/ProjetoFinal-Modulo2)
-- [Loja Minions (Meu 1º projeto, realizado em JS, HTML e CSS)](https://github.com/fredrook/ProjetoFinal-Modulo1)
+Jira | Heroku | Git Hub | DBeaver | Docker | Insomnia | Jest | NodeJS | Type Script | TypeORM | PostgreSQL | APIrestFull | ExpressJS
+
+- [Back-End | KenzieMED (Projeto realizado Type Script, utilizando TypeORM | PostgreSQL | APIrestFull | ExpressJS | Docker, entre outras tecs.)](https://github.com/marcelo-kodaira/kenzie_med)
+- [Front-End | KenzieMED (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
+- [Front-End | NU Kenzie (1º Projeto, realizado em React Native, com conceitos de Componentização, Pages, Styled Components)](https://github.com/fredrook/REACT-NuKenzie)
+- [Front-End | Kenzie Habits (2º projeto, realizado em JS, HTML e CSS, utilizando conceitos de API, DOM e POO)](https://github.com/fredrook/ProjetoFinal-Modulo2)
+- [Front-End | Loja Minions (Meu 1º projeto, realizado em JS, HTML e CSS)](https://github.com/fredrook/ProjetoFinal-Modulo1)
 
 ---
 ### Como me achar 
