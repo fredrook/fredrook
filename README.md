@@ -43,6 +43,7 @@
 
 #### Back-End
 
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js5&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
