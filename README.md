@@ -6,7 +6,11 @@
 
 ### Sobre
 
-- Me chamo Frederico Rook Chaves, sou Programador Web Developer Front End e estudando Back End pela Kenzie Academy Brasil 🇧🇷 
+👋 Me chamo Frederico Rook Chaves, sou Programador Web Developer Front End e estudando Back End pela Kenzie Academy Brasil 🇧🇷 
+
+✨ Meu objetivo é fornecer meu conhecimento como Programador, de forma a atuar em equipe, trabalhando como principal parâmetro, os conceitos “Código Limpo”, “Metodologias Ágeis”, criando projetos eficazes, bonitos e responsivos.
+
+#### ✨✨✨ Estou disponível para trabalhar! ✨✨✨
 
 ---
 ### Alguns dos meus projetos
