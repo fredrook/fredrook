@@ -29,6 +29,11 @@ TypeORM | PostgreSQL | APIrestFull | ExpressJS
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531989918191)
 
 ---
+### Como me achar 
+
+[![](https://img.shields.io/badge/-CURR%C3%8DCULO-blue)](https://drive.google.com/file/d/1J5mF_3pV_whmzp3GgbeM9yR81lSUcBjA/view?usp=share_link)
+
+---
 ### Tecnologias
 
 #### Linguagens de programação
@@ -59,6 +64,7 @@ TypeORM | PostgreSQL | APIrestFull | ExpressJS
 ---
 #### Outras Ferramentas
 
+![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
