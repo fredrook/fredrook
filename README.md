@@ -29,7 +29,7 @@ TypeORM | PostgreSQL | APIrestFull | ExpressJS
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531989918191)
 
 ---
-### Como me achar 
+### Meu Currículo ( PDF )
 
 [![](https://img.shields.io/badge/-CURR%C3%8DCULO-blue)](https://drive.google.com/file/d/1J5mF_3pV_whmzp3GgbeM9yR81lSUcBjA/view?usp=share_link)
 
