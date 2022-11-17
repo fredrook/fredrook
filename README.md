@@ -11,9 +11,9 @@
 ---
 ### Alguns dos meus projetos
 
-- 1 Projeto, realizado em JS, HTML e CSS
 - <a href="https://github.com/fredrook/ProjetoFinal-Modulo1" target="_blank" rel="noreferrer">
-
+- 1 Projeto, realizado em JS, HTML e CSS
+</a>
 
 ---
 ### Como me achar 
