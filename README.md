@@ -11,8 +11,10 @@
 ---
 ### Alguns dos meus projetos
 
-- 1 Projeto, realizado em JS, HTML e CSS
-![]("https://github.com/fredrook/ProjetoFinal-Modulo1")
+- [KenzieMED (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
+- [NU Kenzie (1º Projeto, realizado em React Native, com conceitos de Componentização, Pages, Styled Components)](https://github.com/fredrook/REACT-NuKenzie)
+- [Kenzie Habits (2º projeto, realizado em JS, HTML e CSS, utilizando conceitos de API, DOM e POO)](https://github.com/fredrook/ProjetoFinal-Modulo2)
+- [Loja Minions (Meu 1º projeto, realizado em JS, HTML e CSS)](https://github.com/fredrook/ProjetoFinal-Modulo1)
 
 ---
 ### Como me achar 
@@ -24,8 +26,6 @@
 
 ---
 #### Linguagens de programação e mais
-
-<!-- More badges at: https://github.com/iuricode/README-template/blob/main/badges/badges.md -->
 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
