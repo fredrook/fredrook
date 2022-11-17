@@ -14,8 +14,7 @@
 
 ---
 ### Alguns dos meus projetos
-
-Jira | Heroku | Git Hub | DBeaver | Docker | Insomnia | Jest | NodeJS | Type Script | TypeORM | PostgreSQL | APIrestFull | ExpressJS
+TypeORM | PostgreSQL | APIrestFull | ExpressJS
 
 - [Back-End | KenzieMED (Projeto em Type Script, utilizando TypeORM | PostgreSQL | APIrestFull | ExpressJS | Docker, entre outras tecs.)](https://github.com/marcelo-kodaira/kenzie_med)
 - [Front-End | KenzieMED (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
