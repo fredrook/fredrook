@@ -11,7 +11,9 @@
 ---
 ### Alguns dos meus projetos
 
-- [**Portfolio**]( ENTRAR COM VERCEL DO PORTIFÓLIO )
+- 1 Projeto, realizado em JS, HTML e CSS
+- <a href="https://github.com/fredrook/ProjetoFinal-Modulo1" target="_blank" rel="noreferrer">
+
 
 ---
 ### Como me achar 
