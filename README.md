@@ -31,7 +31,7 @@ TypeORM | PostgreSQL | APIrestFull | ExpressJS
 ---
 ### Meu Currículo ( PDF )
 
-[![](https://img.shields.io/badge/-CURR%C3%8DCULO-blue)](https://drive.google.com/file/d/1J5mF_3pV_whmzp3GgbeM9yR81lSUcBjA/view?usp=share_link)
+[![](https://img.shields.io/badge/-CURR%C3%8DCULO-blue)](https://drive.google.com/file/d/1EmHs1wgKNY_ELL_BqCjZ6b5VujMBTkVA/view?usp=share_link)
 
 ---
 ### Tecnologias
