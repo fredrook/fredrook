@@ -31,7 +31,7 @@ TypeORM | PostgreSQL | APIrestFull | ExpressJS
 ---
 ### Meu Currículo ( PDF )
 
-<a href="https://drive.google.com/file/d/1EmHs1wgKNY_ELL_BqCjZ6b5VujMBTkVA/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1i1eSzku5Dog3k47sqbMcAsv1HU0RzTWo/view?usp=share_link">
   <img width="115" height="25" src="https://img.shields.io/badge/-CURR%C3%8DCULO-blue" />
 </a>
 
