@@ -14,7 +14,11 @@
 
 ---
 ### Alguns dos meus projetos
-TypeORM | PostgreSQL | APIrestFull | ExpressJS
+
+- [Back-End | Pet Kare (Projeto em Django + Python, utilizando DBSqlite3 e conceitos de DER.)]([https://github.com/fredrook/Challenge_Full-Stack_RadarFit](https://github.com/Kenzie-Academy-Brasil-Developers/SPR3-Pet-Kare-FredRook))
+
+- [Back-End | ChallengeRadarFit (Projeto em Type Script, utilizando TypeORM | PostgreSQL | API JSON RESTFull | Express | Docker, Hospedado no Heroku.)](https://github.com/fredrook/Challenge_Full-Stack_RadarFit)
+- [Front-End | ChallengeRadarFit (Projeto realizado React + Type Script,React Hook Form, Bootstrap e vercionado no Vercel)](https://github.com/fredrook/Challenge_Full-Stack_RadarFit_Front_End)
 
 - [Back-End | KenzieMED (Projeto em Type Script, utilizando TypeORM | PostgreSQL | APIrestFull | ExpressJS | Docker, entre outras tecs.)](https://github.com/marcelo-kodaira/kenzie_med)
 - [Front-End | KenzieMED (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
