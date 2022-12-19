@@ -15,7 +15,7 @@
 ---
 ### Alguns dos meus projetos
 
--[Back-End | BandKamp ( Python e Django ) Projeto realizado para sobrescrever o antigo codigo, passando-o para Python+Django, implementando conceitos de Generics, removendo o banco de dados do DB.Sqlite3 para Postgres e refazendo o deploy no Railway](https://github.com/Kenzie-Academy-Brasil-Developers/SPR5-BandKamp-FredRook)
+- [Back-End | BandKamp ( Python e Django ) Projeto realizado para sobrescrever o antigo codigo, passando-o para Python+Django, implementando conceitos de Generics, removendo o banco de dados do DB.Sqlite3 para Postgres e refazendo o deploy no Railway](https://github.com/Kenzie-Academy-Brasil-Developers/SPR5-BandKamp-FredRook)
 - [Back-End | Pet Kare (Projeto em Django + Python, utilizando DBSqlite3 e conceitos de DER.)](https://github.com/Kenzie-Academy-Brasil-Developers/SPR3-Pet-Kare-FredRook)
 -
 - [Back-End | ChallengeRadarFit (Projeto em Type Script, utilizando TypeORM | PostgreSQL | API JSON RESTFull | Express | Docker, Hospedado no Heroku.)](https://github.com/fredrook/Challenge_Full-Stack_RadarFit)
