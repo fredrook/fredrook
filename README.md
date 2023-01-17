@@ -15,7 +15,7 @@
 ---
 ### Alguns dos meus projetos
 
-- [Back-End | KenzieMED2.0 ( Python e Django ) Neste projeto 2.0, realizei a migração de tecnologias e linguagens do antigo projeto Back End efetudo, transcrevendo todo o codigo de Type Script + Espress para Python + Django, concatenando o uso de outras tecs.)](https://github.com/grupo-1-projeto-frontend-t12/projeto_m5_backend_kenziemed_2.0)
+- [Back-End | KenzieMED2.0 ( Python e Django ) Neste projeto 2.0, realizei a migração de tecnologias e linguagens do antigo projeto Back End efetuado, transcrevendo todo o codigo de Type Script + Espress para Python + Django, concatenando o uso de outras tecs.)](https://github.com/grupo-1-projeto-frontend-t12/projeto_m5_backend_kenziemed_2.0)
 -
 
 - [Back-End | BandKamp ( Python e Django ) Projeto realizado para sobrescrever o antigo codigo, passando-o para Python+Django, implementando conceitos de Generics, removendo o banco de dados do DB.Sqlite3 para Postgres e refazendo o deploy no Railway](https://github.com/Kenzie-Academy-Brasil-Developers/SPR5-BandKamp-FredRook)
