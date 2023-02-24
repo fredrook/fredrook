@@ -96,7 +96,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ---
-### Meu Status
+### Meu Status 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrook)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredrook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
