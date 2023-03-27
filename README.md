@@ -10,7 +10,7 @@
 
 ✨ Meu objetivo é fornecer meu conhecimento como Programador, de forma a atuar em equipe, trabalhando como principal parâmetro, os conceitos “Código Limpo”, “Metodologias Ágeis”, criando projetos eficazes, bonitos e responsivos.
 
-#### ✨✨✨ Estou disponível para trabalhar! ✨✨✨
+#### ✨✨✨ Trabalhando ✨✨✨
 
 ---
 ### Alguns dos meus projetos
