@@ -40,7 +40,7 @@
 ---
 ### Meu Currículo ( PDF )
 
-<a href="https://drive.google.com/file/d/1vemYCZRAEHRRzvLYFILxTNcAueqdmTJO/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1KeM9llj0cLSMnnfx0gTQIeA6adR5oRh-/view">
   <img width="115" height="26" src="https://img.shields.io/badge/-CURR%C3%8DCULO-blue" />
 </a>
 
