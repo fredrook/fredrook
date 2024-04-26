@@ -42,6 +42,7 @@ Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e efici
 - Pet Kare - [Back-End | (Projeto em Django + Python, utilizando DBSqlite3 e conceitos de DER.)](https://github.com/Kenzie-Academy-Brasil-Developers/SPR3-Pet-Kare-FredRook)
 
 
+
 - ChallengeRadarFit - [Back-End | (Projeto em Type Script, utilizando TypeORM | PostgreSQL | API JSON RESTFull | Express | Docker, Hospedado no Heroku.)](https://github.com/fredrook/Challenge_Full-Stack_RadarFit)
 
 
@@ -52,10 +53,15 @@ Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e efici
 
 
 - KenzieMED - [Front-End | (Projeto realizado React + Type Script, além de outras bibliotecas)](https://github.com/grupo-1-projeto-frontend-t12/Projeto-FrontEnd-M3)
--
-- [Front-End | NU Kenzie (1º Projeto, realizado em React Native, com conceitos de Componentização, Pages, Styled Components)](https://github.com/fredrook/REACT-NuKenzie)
-- [Front-End | Kenzie Habits (2º projeto, realizado em JS, HTML e CSS, utilizando conceitos de API, DOM e POO)](https://github.com/fredrook/ProjetoFinal-Modulo2)
-- [Front-End | Loja Minions (Meu 1º projeto, realizado em JS, HTML e CSS)](https://github.com/fredrook/ProjetoFinal-Modulo1)
+
+
+- NU Kenzie - [Front-End | (1º Projeto, realizado em React Native, com conceitos de Componentização, Pages, Styled Components)](https://github.com/fredrook/REACT-NuKenzie)
+
+  
+- Kenzie Habits - [Front-End | (2º projeto, realizado em JS, HTML e CSS, utilizando conceitos de API, DOM e POO)](https://github.com/fredrook/ProjetoFinal-Modulo2)
+
+  
+- Loja Minions - [Front-End | (Meu 1º projeto, realizado em JS, HTML e CSS)](https://github.com/fredrook/ProjetoFinal-Modulo1)
 
 ---
 ### Como me achar 
