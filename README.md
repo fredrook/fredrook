@@ -29,9 +29,9 @@ Linkedin:  https://www.linkedin.com/in/fredericorook/
 Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e eficiente do backend, utilizado o padrão Arquitetural MVC e Microsserviçe. Front End construido utilizando Angular + Bootstrap, Banco de Dados estruturado em SQL Server e IIS.
 ](https://sistemaproclin.com.br/)
 -
-- [Front-End | Test Front End Sossego ( ReactJS + TypeScript ) O test consistia em criar um F.E que fizesse a criação de users e armazenasse através de Context. Entreguei além do pedido, uma pagina de abertura, utilizando Rotas e Protect Routes, além de concatenar com demais libs e tecs, conseguindo entregar com sucesso o pedido e muito além.)](https://github.com/fredrook/Teste-FE-Sossego-ReactJS)
+- Test Front End Sossego - [Front-End | ( ReactJS + TypeScript ) O test consistia em criar um F.E que fizesse a criação de users e armazenasse através de Context. Entreguei além do pedido, uma pagina de abertura, utilizando Rotas e Protect Routes, além de concatenar com demais libs e tecs, conseguindo entregar com sucesso o pedido e muito além.)](https://github.com/fredrook/Teste-FE-Sossego-ReactJS)
 -
-- [Back-End | KenzieMED2.0 ( Python e Django ) Neste projeto 2.0, realizei a migração de tecnologias e linguagens do antigo projeto Back End efetuado, transcrevendo todo o codigo de Type Script + Espress para Python + Django, concatenando o uso de outras tecs.)](https://github.com/grupo-1-projeto-frontend-t12/projeto_m5_backend_kenziemed_2.0)
+- KenzieMED2.0 - [Back-End | ( Python e Django ) Neste projeto 2.0, realizei a migração de tecnologias e linguagens do antigo projeto Back End efetuado, transcrevendo todo o codigo de Type Script + Espress para Python + Django, concatenando o uso de outras tecs.)](https://github.com/grupo-1-projeto-frontend-t12/projeto_m5_backend_kenziemed_2.0)
 -
 - [Back-End | BandKamp ( Python e Django ) Projeto realizado para sobrescrever o antigo codigo, passando-o para Python+Django, implementando conceitos de Generics, removendo o banco de dados do DB.Sqlite3 para Postgres e refazendo o deploy no Railway](https://github.com/Kenzie-Academy-Brasil-Developers/SPR5-BandKamp-FredRook)
 - [Back-End | Pet Kare (Projeto em Django + Python, utilizando DBSqlite3 e conceitos de DER.)](https://github.com/Kenzie-Academy-Brasil-Developers/SPR3-Pet-Kare-FredRook)
