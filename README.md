@@ -8,7 +8,13 @@
 
 👋 Me chamo Frederico Rook Chaves, sou Desenvolvedor Full Stack 
 
-✨ Meu objetivo é fornecer meu conhecimento como Programador, de forma a atuar em equipe, trabalhando como principal parâmetro, os conceitos “Código Limpo”, “Metodologias Ágeis”, criando projetos eficazes, bonitos e responsivos.
+✨ Apaixonado por tecnologia, Full Stack Developer formado na escola americana Kenzie Academy na vertente brasileira.
+
+Amplo conhecimento em Design Patterns, MVC, Solid, Clean Code. Proficiente em linguagens como .NET, C#, NodeJS, ExpressJS e em Front End, Angular, ReactJS, TypeScript, Bootstrap.
+
+Conhecedor de tecnologias como SQL Server, Swagger, Git, GitHub, Jira, Trello, Figma, entre outras.
+
+Experiência comprovada, projetos reais ( Monolito e Microservice ), mais de 44 mil usuários em utilização, mais de 7.000 horas em projetos.
 
 ---
 ### Alguns dos meus projetos
