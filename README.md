@@ -25,6 +25,11 @@ Linkedin:  https://www.linkedin.com/in/fredericorook/
 ---
 ### Alguns dos meus projetos
 
+- Monkey Money - [Full Stack | ( C# .NET Core + Angular + Bootstrap ) Monkey Money é um projeto de duas etapas, com intuito de atender a empresas Brasileiras nos EUA e Brasil, a 1º etapa é o Ecommerce, responsavel pela apresentação de Empresas e venda de Produtos, a 2º é o ERP, responsavel pelo gerenciamento do Ecommerce no geral. 
+Como Desenvolvedor Full Stack C# .NET, fui responsavel integralmente pelo desenvolvimento e construção, o projeto tem uma arquitetura, lógica e regras de negócios robusto e eficiente, utilizado o padrão Arquitetural MVC e Microsserviçe. Front End construido utilizando Angular + Bootstrap, Banco de Dados estruturado em SQL Server e IIS.
+](https://erp.gerenciarsc.com.br/monkey)
+
+
 - Mayara Silvano Estética - [Full Stack  Freelance | ( JavaScript + HTML + CSS + Bootstrap ) Tive o privilégio de realizar o desenvolvimento deste site para expor o espaço de estética da profissional Mayara Silvano. 
 O projeto foi consebido para ser responsivo, rápido, design elegante, garantindo uma experiência de usuário excepcional. 
 Utilizei tecnologias de ponta para criar uma plataforma dinâmica e intuitiva, onde os serviços do espaço de estética são apresentados de forma elegante e acessível.  
