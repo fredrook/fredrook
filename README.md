@@ -25,7 +25,7 @@ Linkedin:  https://www.linkedin.com/in/fredericorook/
 ---
 ### Alguns dos meus projetos
 
-- [Full Stack | Proclin ( C# .NET Core + Angular + Bootstrap )  O Proclin é um (ERP) Sistema de gerenciamento de Clínicas e Hospitalar completo e eficiente para a gestão de instituições de saúde.
+Proclin: - [Full Stack | ( C# .NET Core + Angular + Bootstrap )  O Proclin é um (ERP) Sistema de gerenciamento de Clínicas e Hospitalar completo e eficiente para a gestão de instituições de saúde.
 Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e eficiente do backend, utilizado o padrão Arquitetural MVC e Microsserviçe. Front End construido utilizando Angular + Bootstrap, Banco de Dados estruturado em SQL Server e IIS.
 ](https://sistemaproclin.com.br/)
 -
