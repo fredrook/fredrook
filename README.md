@@ -19,6 +19,7 @@ Experiência comprovada, projetos reais ( Monolito e Microservice ), mais de 44 
 **Visite meu site e saiba mais sobre mim**: 
 
 Portfólio: https://portfolio-fredericorook.vercel.app
+
 Linkedin:  https://www.linkedin.com/in/fredericorook/
 
 ---
