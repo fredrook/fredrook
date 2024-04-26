@@ -25,14 +25,9 @@ Linkedin:  https://www.linkedin.com/in/fredericorook/
 ---
 ### Alguns dos meus projetos
 
-- # Full Stack | Proclin (C# .NET Core + Angular + Bootstrap)
-
-**O Proclin é um (ERP) Sistema de gerenciamento de Clínicas e Hospitalar completo e eficiente para a gestão de instituições de saúde.**
-
-Como Desenvolvedor Full Stack C#, .NET, trabalhei na construção robusta e eficiente do backend, utilizando o padrão Arquitetural MVC e Microsserviço. Front End construído utilizando Angular + Bootstrap, Banco de Dados estruturado em SQL Server e IIS.
-
-[Visite o site do Proclin para mais informações.](https://sistemaproclin.com.br/){:target="_blank"}
-
+- [Full Stack | Proclin ( C# .NET Core + Angular + Bootstrap )  O Proclin é um (ERP) Sistema de gerenciamento de Clínicas e Hospitalar completo e eficiente para a gestão de instituições de saúde.
+Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e eficiente do backend, utilizado o padrão Arquitetural MVC e Microsserviçe. Front End construido utilizando Angular + Bootstrap, Banco de Dados estruturado em SQL Server e IIS.
+](https://sistemaproclin.com.br/)
 -
 - [Front-End | Test Front End Sossego ( ReactJS + TypeScript ) O test consistia em criar um F.E que fizesse a criação de users e armazenasse através de Context. Entreguei além do pedido, uma pagina de abertura, utilizando Rotas e Protect Routes, além de concatenar com demais libs e tecs, conseguindo entregar com sucesso o pedido e muito além.)](https://github.com/fredrook/Teste-FE-Sossego-ReactJS)
 -
