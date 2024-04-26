@@ -17,6 +17,7 @@ Conhecedor de tecnologias como SQL Server, Swagger, Git, GitHub, Jira, Trello, F
 Experiência comprovada, projetos reais ( Monolito e Microservice ), mais de 44 mil usuários em utilização, mais de 7.000 horas em projetos.
 
 **Visite meu site e saiba mais sobre mim**: 
+
 Portfólio: https://portfolio-fredericorook.vercel.app
 Linkedin:  https://www.linkedin.com/in/fredericorook/
 
