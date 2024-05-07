@@ -8,19 +8,20 @@
 
 👋 Me chamo Frederico Rook Chaves, sou Desenvolvedor Full Stack 
 
-✨ Apaixonado por tecnologia, Full Stack Developer formado na escola americana Kenzie Academy na vertente brasileira.
+✨Pleno conhecimento e proficiência em planejamento, desenvolvimento e manutenção de projetos web. Possuo diversos projetos pessoais e profissionais publicados com padrões modernos de arquitetura como Factory, MVC, DDD e KISS através de frameworks Full Stack como Asp.NET, .NET, NodeJS, ExpressJS, Angular, ReactJS. 
 
-Amplo conhecimento em Design Patterns, MVC, Solid, Clean Code. Proficiente em linguagens como .NET, C#, NodeJS, ExpressJS e em Front End, Angular, ReactJS, TypeScript, Bootstrap.
+Tenho experiência em construção e integração de APIs REST, Typescript, aplicação de Design Patterns, utilização de padrões arquiteturais ( Monolito e Microservices ), operações de Deploy, Git, GitFlow, gerenciamento banco de dados SQL e possuo segurança no desenvolvimento com tecnologias como ReactJS, Bootstrap, Swagger, Figma, SQLyte, PostgreSQL, MySQL, Azure entre outras.
 
-Conhecedor de tecnologias como SQL Server, Swagger, Git, GitHub, Jira, Trello, Figma, entre outras.
+No meu cotidiano, uso diariamente C# e .NET para desenvolvimento Back End, Angular com TypeScript e JavaScript para Front End, HTML, CSS, Bootstrap para design, MVC, DDD, Factory, Kiss para arquitetural, Swagger, Postman, Insomnia para documentação e testes de rota. Além de costume e vivencia aplicando boas práticas como SOLID, Cleand Code para tornar e manter os projetos escaláveis e consistentes ( SCRUM, Jira, Trello ).
 
-Experiência comprovada, projetos reais ( Monolito e Microservice ), mais de 44 mil usuários em utilização, mais de 7.000 horas em projetos.
+Experiência comprovada, projetos reais, mais de 44 mil usuários em utilização, mais de 7.000 horas em projetos.
 
 **Visite meu site e saiba mais sobre mim**: 
 
 Portfólio: https://portfolio-fredericorook.vercel.app
-
 Linkedin:  https://www.linkedin.com/in/fredericorook/
+WhatsApp: (31) 9 8991-8191
+Email: fredericorook@hotmail.com
 
 ---
 ### Alguns dos meus projetos
