@@ -19,8 +19,11 @@ Experiência comprovada, projetos reais, mais de 44 mil usuários em utilizaçã
 **Visite meu site e saiba mais sobre mim**: 
 
 Portfólio: https://portfolio-fredericorook.vercel.app
+
 Linkedin:  https://www.linkedin.com/in/fredericorook/
+
 WhatsApp: (31) 9 8991-8191
+
 Email: fredericorook@hotmail.com
 
 ---
