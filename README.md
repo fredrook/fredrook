@@ -87,7 +87,7 @@ Como Desenvolvedor Full Stack C# .NET, trabalhei na construção robusta e efici
 ---
 ### Meu Currículo ( PDF )
 
-<a href="https://drive.google.com/file/d/11m68hneP9puD-mmjaejPZ_8l6A1yxXo5/view" target="_blank">
+<a href="[https://drive.google.com/file/d/11m68hneP9puD-mmjaejPZ_8l6A1yxXo5/view](https://drive.google.com/file/d/1xJtSJZFoYb1lA0ZIKYmgDXil5Uxn-Mz-/view)" target="_blank">
   <img width="115" height="26" src="https://img.shields.io/badge/-CURR%C3%8DCULO-blue" />
 </a>
 
